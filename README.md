@@ -6,6 +6,8 @@ Backend PHP developer
 
 I am interested in backend development. It is important for me to write code that not only solves the task but is also easy to maintain and does not cause problems when working with it. I enjoy working with data and optimizing efficiency in handling it. In my work, I adhere to testing principles, code reviews, and creating clean code with extensible architecture. I aim for high-quality software and enjoy working in a team where these principles are valued and practiced.
 
+Now i'm seeking job
+
 *   🌍  I'm based in Ufa, Russia
 *   ✉️  You can contact me at [dmitrynikolaev02@gmail.com](mailto:dmitrynikolaev02@gmail.com)
 *   🧠  I'm learning Algorithms, Databases and Arcitecture of computer### Skills 
